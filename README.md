@@ -1,2 +1,2 @@
-# sunspots
+# Sunspot Prediction 
 Sunspot prediction using LSTMs
